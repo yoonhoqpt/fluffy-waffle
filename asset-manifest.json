@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/fluffy-waffle/static/css/main.e6c13ad2.css",
+    "main.js": "/fluffy-waffle/static/js/main.31d9bd84.js",
+    "static/js/453.2ac95bec.chunk.js": "/fluffy-waffle/static/js/453.2ac95bec.chunk.js",
+    "static/media/stopwatch.jpg": "/fluffy-waffle/static/media/stopwatch.c1f9c150320f21d7c679.jpg",
+    "static/media/contract.jpg": "/fluffy-waffle/static/media/contract.13d53568a6b2f133d9bb.jpg",
+    "static/media/handshake.jpg": "/fluffy-waffle/static/media/handshake.a449d92936ad536ee89d.jpg",
+    "static/media/candidate.jpg": "/fluffy-waffle/static/media/candidate.8c4f83aca488c6f08093.jpg",
+    "index.html": "/fluffy-waffle/index.html",
+    "main.e6c13ad2.css.map": "/fluffy-waffle/static/css/main.e6c13ad2.css.map",
+    "main.31d9bd84.js.map": "/fluffy-waffle/static/js/main.31d9bd84.js.map",
+    "453.2ac95bec.chunk.js.map": "/fluffy-waffle/static/js/453.2ac95bec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.31d9bd84.js"
+  ]
+}
